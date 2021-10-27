@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: www.simons.earth
 description: things steve doesn''t mind you knowing about...
+github:
+  is_project_page: false
